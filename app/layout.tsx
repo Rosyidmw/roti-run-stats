@@ -9,6 +9,7 @@ const pjs = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   title: "Roti Run Stats",
   description: "Strava Dashboard for Everyone",
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
